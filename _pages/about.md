@@ -9,6 +9,16 @@ redirect_from:
 
 I am currently a part of my high school's ITOA (Information Technology and Oracle Academy program) and have been for three years. I’m a junior (11th grade) and looking into computer science as a career path. My current GPA average is a 3.5 and I’m an ITOA ambassador.
 
+
+## projects
+[Q1 project](https://github.com/KariceWilliams/Budget-Tracker)
+
+[Q2 project](https://github.com/KariceWilliams/UIrecreation)
+
+[Q3 project](https://github.com/KariceWilliams/APGproj)
+
+[Q4 project](https://github.com/KariceWilliams/Quarter-4-Project)
+
 ## Soft Skills
 
 - Team player  
